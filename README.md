@@ -20,7 +20,7 @@ I'm a Data analyst
 
 ## Authors
 
-- [@Bob Mai]
+- Bob Mai
 
 
 ## Installation
